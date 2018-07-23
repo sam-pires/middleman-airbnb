@@ -1,0 +1,32 @@
+MartaVillar:
+  surname: Marta
+  name: "Nice penthouse with view in Cais de Sodré"
+  description: "Huge penthouse in the heart of Cais Sodré, nice view on the Tage, modern furnitures and cool area"
+  city_name: "Lisbon, Portugal"
+  city_slug: "lisbon"
+  wifi: 78
+  rating: 4
+simong33:
+  surname: "Simon"
+  name: "Tech loft in Bordeaux"
+  description: "The best place in Bordeaux to code and build your next product"
+  city_name: "Bordeaux, France"
+  city_slug: "bordeaux"
+  wifi: 35
+  rating: 5
+clement-bergantz:
+  surname: "Clément"
+  name: "Versailles's hacker house"
+  description: "THE First and only hacking house in Versailles, come to code with a royalty flavor"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: 450
+  rating: 3
+tarekagp:
+  surname: "Tarek"
+  name: "Spain code mansion"
+  description: "Great mansion in Barcelona"
+  city_name: "Barcelona, Spain"
+  city_slug: "barcelona"
+  wifi: 450
+  rating: 5
