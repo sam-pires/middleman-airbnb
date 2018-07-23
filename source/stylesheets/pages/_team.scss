@@ -1,4 +1,5 @@
 .ul-team {
+  height: 300px;
   img {
   width: 100px;
   margin:70px 15px 15px 15px;
@@ -11,6 +12,10 @@
   }
   h3 {
   font-size: 24px;
-  color: $red;
+  color: $green;
   }
+}
+
+.title {
+  margin-bottom: 300px;
 }
